@@ -5,7 +5,7 @@ languages:
 products:
   - azure
 description: "Products Manager application for Serverless API Learn Module"
-urlFragment: "mslearn-build-api-azure-functions"
+urlFragment: azure-functions"
 ---
 
 # Official Microsoft Sample
