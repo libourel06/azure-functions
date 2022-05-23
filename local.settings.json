@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "AzureWebJobs.GetProducts.Disabled": "false",
+    "CONNECTION_STRING": "AccountEndpoint=https://tailwind-traders-31687.documents.azure.com:443/;AccountKey=DQmr2DtosXXv26i2DUFyLalgFkUmpkBayQa6gZaMeFIQZw3Zg10ukhFmMJD0m6OiHkMMinqoG9EXpUIi5fpizg==;"
+  }
+}
